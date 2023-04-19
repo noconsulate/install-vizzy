@@ -16,7 +16,7 @@ onMounted(() => {
   // do monday OAuth as user via vizzy server where it builds Vizzy column
 
 
-  // window.location.href = requestString
+  window.location.href = requestString
 })
 </script>
 
