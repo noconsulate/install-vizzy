@@ -32,5 +32,5 @@ onMounted(async () => {
 </script>
 
 <template>
-  Redirect
+  Installing Vizzy...
 </template>

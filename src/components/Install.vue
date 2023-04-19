@@ -21,6 +21,5 @@ onMounted(() => {
 </script>
 
 <template>
-  <div>To install Vizzy, click "install".</div>
-  <div><button @click="install">Install</button></div>
+  Installing vizzy...
 </template>
